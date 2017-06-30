@@ -1,24 +1,9 @@
-# README
+# AUDIOBOOK CREATOR
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby terminal application that converts .pdf to .mp3 utilizing gems.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## WHAT I WANTED OUT OF THIS PROJECT
+* Learn the fundamentals of ruby GEMS and how to utilize them.
+* Use more than one gem so I learn how to intigrate multiple gems.
+* Create a software program that I can later use to build on the rails framework and turn into a web based program.
+* Create a program that I can use to reduce my growing list of books.
